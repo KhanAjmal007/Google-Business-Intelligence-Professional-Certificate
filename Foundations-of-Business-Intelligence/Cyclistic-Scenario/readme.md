@@ -39,6 +39,7 @@ The dataset includes millions of rides, so the team wants a dashboard that summa
   <li> Tessa Blackwell, Data Analyst </li>
   <li> Brianne Sand, Director, ITShareefah </li> 
   <li> Hakimi, Project Manager </li>
+</ul>
 
 *Primary contacts are Adhira, Megan, Rick, and Tessa. 
 
@@ -48,22 +49,19 @@ Per Sara: Dashboard needs to be accessible, with large print and text-to-speech 
 
 The datasets will include customer (user) data, which Jamal will need to approve. Also the project might need approval by the teams that own specific product data, including bike trip duration and bike identification numbers. So I need to make sure that stakeholders have data access to all datasets.
 
-Project goal: Grow Cyclistic’s Customer Base
+### Project goal: Grow Cyclistic’s Customer Base
 
 Details from Ms. Romero:
 
-Understand what customers want, what makes a successful product, and how new stations might alleviate demand in different geographical areas.
+<ul>
+  <li> Understand what customers want, what makes a successful product, and how new stations might alleviate demand in different geographical areas. </li>
+  <li> Understand how the current line of bikes are used. </li>
+  <li> How can we apply customer usage insights to inform new station growth? </li>
+  <li> The customer growth wants to understand how different users (subscribers and non-subscribers) use our bikes. We’ll want to investigate a large group of users to get a fair representation of users across locations and with low- to high-activity levels. </li>
+  <li> Keep in mind users might use Cyclistic less when the weather is inclement. This should be visible in the dashboard. </li>
+</ul>
 
-Understand how the current line of bikes are used.
-
-How can we apply customer usage insights to inform new station growth?
-
-The customer growth wants to understand how different users (subscribers and non-subscribers) use our bikes. We’ll want to investigate a large group of users to get a fair representation of users across locations and with low- to high-activity levels.
-
-Keep in mind users might use Cyclistic less when the weather is inclement. This should be visible in the dashboard.
-
-   The deliverables and metrics:
-
+### The deliverables and metrics:
 A table or map visualization exploring starting and ending station locations, aggregated by location. I can use any location identifier, such as station, zip code, neighborhood, and/or borough. This should show the number of trips at starting locations.
 
 Tip: You can show either a table or a map. For more about creating maps in Tableau, check out the  Build a simple map guide on Tableau Help . For a table, you could include just starting locations or a combination of starting and ending locations. 
