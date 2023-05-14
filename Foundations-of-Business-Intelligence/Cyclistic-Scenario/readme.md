@@ -62,33 +62,23 @@ Details from Ms. Romero:
 </ul>
 
 ### The deliverables and metrics:
-A table or map visualization exploring starting and ending station locations, aggregated by location. I can use any location identifier, such as station, zip code, neighborhood, and/or borough. This should show the number of trips at starting locations.
-
-Tip: You can show either a table or a map. For more about creating maps in Tableau, check out the  Build a simple map guide on Tableau Help . For a table, you could include just starting locations or a combination of starting and ending locations. 
-
-A visualization showing which destination (ending) locations are popular based on the total trip minutes.
-
-Tip: Focus on peak months.
-
-A visualization that focuses on trends from the summer of 2015.
-
-A visualization showing the percent growth in the number of trips year over year.
-
-Gather insights about congestion at stations.
-
-Tip: For each day, use a table calculation to calculate the net of start and ending trips per station. This gives an approximation of whether there are more bikes coming in or out of a station.
-
-Gather insights about the number of trips across all starting and ending locations.
-
-Gather insights about peak usage by time of day, season, and the impact of weather.
-
+<ul>
+  <li> A table or map visualization exploring starting and ending station locations, aggregated by location. I can use any location identifier, such as station, zip code, neighborhood, and/or borough. This should show the number of trips at starting locations. </li>
+  <li> A visualization showing which destination (ending) locations are popular based on the total trip minutes. </li>
+  <li> A visualization that focuses on trends from the summer of 2015. </li>
+  <li> A visualization showing the percent growth in the number of trips year over year. </li>
+  <li> Gather insights about congestion at stations. </li>
+  <li> Gather insights about the number of trips across all starting and ending locations. </li>
+  <li> Gather insights about peak usage by time of day, season, and the impact of weather. </li>
+</ul>
+  
 *Dashboard must be created in 6 weeks!
 
-Measure success:
+### Measure success:
 
 Analyze data that spans at least one year to see how seasonality affects usage. Exploring data that spans multiple months will capture peaks and valleys in usage. Evaluate each trip on the number of rides per starting location and per day/month/year to understand trends. For example, do customers use Cyclistic less when it rains? Or does bikeshare demand stay consistent? Does this vary by location and user types (subscribers vs. nonsubscribers)? Use these outcomes to find out more about what impacts customer demand.
 
-Other considerations:
+### Other considerations:
 
 The dataset includes latitude and longitude of stations but does not identify more geographic aggregation details, such as zip code, neighborhood name, or borough. The team will provide a separate database with this data. 
 
@@ -98,21 +88,25 @@ Starting bike trips at a location will be impossible if there are no bikes avail
 
 Finally, the data must not include any personal info (name, email, phone, address). Personal info is not necessary for this project. Anonymize users to avoid bias. 
 
-People with dashboard-viewing privileges: 
+### People with dashboard-viewing privileges: 
 
 Adhira, Brianne, Ernest, Jamal, Megan, Nina, Rick, Shareefah, Sara, Tessa
 
-Roll-out:
+### Roll-out:
 
-Week 1: Dataset assigned. Initial design for fields and BikeIDs validated to fit the requirements.
+#### Week 1:
+Dataset assigned. Initial design for fields and BikeIDs validated to fit the requirements.
 
-Weeks 2–3: SQL and ETL development
+#### Weeks 2–3:
+SQL and ETL development
 
-Weeks 3–4: Finalize SQL. Dashboard design. 1st draft review with peers.
+#### Weeks 3–4:
+Finalize SQL. Dashboard design. 1st draft review with peers.
 
-Weeks 5–6: Dashboard development and testing
+#### Weeks 5–6: 
+Dashboard development and testing
 
-Questions:
+### Questions:
 
 How were bikes used by our customers?
 
