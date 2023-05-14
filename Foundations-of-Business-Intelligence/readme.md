@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://github.com/CindCodes/Google-Business-Intelligence-Capstone/blob/main/Graphics/FoundationsBanner.png" alt="Banner" title="Foundations of Business Intelligence">
+</p>
+
 ## End-of-Course Project
 In the final week of this course, I complete the first part of the Business Intelligence end-of-course project by showcasing my BI knowledge to review relevant project material from stakeholders to identify key requirements, then develop a project requirement document (executive summary) to align with stakeholder needs and guide my project. The key business intelligence documents are as follows:
 <ul>
