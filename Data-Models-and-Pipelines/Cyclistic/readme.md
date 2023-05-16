@@ -20,6 +20,7 @@ You met with stakeholders to complete project planning documents and uploaded th
 
 ## Resources
  [BigQuery](https://console.cloud.google.com/bigquery?_ga=2.139941043.1230943722.1684190616-1879709139.1684190616&project=noted-processor-386822&ws=!1m0/)
+ 
  [Dataflow](/https://console.cloud.google.com/dataflow/jobs?project=noted-processor-386822/)
 
 ### Example Query
