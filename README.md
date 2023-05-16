@@ -10,6 +10,8 @@ This repository is dedicated to showcasing my skills acquired during the complet
 </ul>
 
 # Courses
-![Foundations of Business Intelligence](https://github.com/CindCodes/Google-Business-Intelligence-Capstone/tree/main/Foundations-of-Business-Intelligence),
-![The Path to Insights: Data Models and Pipelines](https://github.com/CindCodes/Google-Business-Intelligence-Capstone/tree/main/Data-Models-and-Pipelines),
+![Foundations of Business Intelligence](https://github.com/CindCodes/Google-Business-Intelligence-Capstone/tree/main/Foundations-of-Business-Intelligence)
+
+![The Path to Insights: Data Models and Pipelines](https://github.com/CindCodes/Google-Business-Intelligence-Capstone/tree/main/Data-Models-and-Pipelines)
+
 ![Decisions, Decisions: Dashboards and Reports](https://github.com/CindCodes/Google-Business-Intelligence-Capstone/tree/main/Dashboards-and-Reports)
