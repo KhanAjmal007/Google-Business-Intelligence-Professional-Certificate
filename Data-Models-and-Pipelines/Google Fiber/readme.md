@@ -1,5 +1,15 @@
 # Google Fiber
-Like previously mentioned, I will be building upon the previous work done during the first course of this certificate to combine data from pre-cleaned tables into one reporting tale that I can use to develop a dashboard for stakeholders. I will begin by uploading the data into the project space using BigQuery, observe how stakeholders interact with the data, and finalizing a reporting table used for the dashboard.
+## Scenario
+The Google Fiber customer service team’s goal is to understand how often customers are calling customer support after their first inquiry; this will help leadership understand how effectively the team is able to answer customer questions the first time. The dashboard you create should demonstrate an understanding of this goal and provide your stakeholders with insights about repeat caller volumes in different markets and the types of problems they represent. As part of the interview process, they have asked you to create a dashboard that will: 
+
+<ul>
+ <li> Help them understand how often customers are calling customer support after their first inquiry; this will help leadership understand how effectively the team is able to answer customer questions the first time </li>
+ <li> Provide insights into the types of customer issues that seem to generate more repeat calls </li>
+ <li> Explore repeat caller trends in the three different market cities </li>
+ <li> Design charts so that stakeholders can view trends by week, month, quarter, and year. </li>
+</ul>
+ 
+You met with stakeholders to complete project planning documents and uploaded the necessary tables into your BigQuery project space. 
 
 ## Datasets
 [Market 1](https://docs.google.com/spreadsheets/d/1a9IKjkvOvYHRx84SyRdp4Sq81EzgeOZPufcRtrUcAIc/template/preview#gid=775366698)
@@ -12,3 +22,24 @@ Like previously mentioned, I will be building upon the previous work done during
  [BigQuery](https://console.cloud.google.com/bigquery?_ga=2.139941043.1230943722.1684190616-1879709139.1684190616&project=noted-processor-386822&ws=!1m0/)
  
  [Dataflow](/https://console.cloud.google.com/dataflow/jobs?project=noted-processor-386822/)
+
+### Example Query
+```
+SELECT*
+FROM `your project table location for market_1`
+UNION ALL
+SELECT*
+FROM `your project table location for market_2`
+```
+
+### My Query
+```
+SELECT *
+FROM `noted-processor-386822.fiber.market1`
+UNION ALL
+SELECT *
+FROM `noted-processor-386822.fiber.market2`
+UNION ALL
+SELECT *
+FROM `noted-processor-386822.fiber.market3`;
+```
