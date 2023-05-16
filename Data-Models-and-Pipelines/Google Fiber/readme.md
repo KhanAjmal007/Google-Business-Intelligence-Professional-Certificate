@@ -31,6 +31,50 @@ UNION ALL
 SELECT*
 FROM `your project table location for market_2`
 ```
+*you could run the following SQL query to create a single combined table that merged all three of the datasets your were given
+```
+SELECT
+  date_created,
+  contacts_n,
+  contacts_n_1,
+  contacts_n_2,
+  contacts_n_3,
+  contacts_n_4,
+  contacts_n_5,
+  contacts_n_6,
+  contacts_n_7,
+  new_type,
+  new_market
+FROM `your project.fiber.market_1`
+UNION ALL
+SELECT
+  date_created,
+  contacts_n,
+  contacts_n_1,
+  contacts_n_2,
+  contacts_n_3,
+  contacts_n_4,
+  contacts_n_5,
+  contacts_n_6,
+  contacts_n_7,
+  new_type,
+  new_market
+FROM `your project.fiber.market_2`
+UNION ALL
+SELECT
+  date_created,
+  contacts_n,
+  contacts_n_1,
+  contacts_n_2,
+  contacts_n_3,
+  contacts_n_4,
+  contacts_n_5,
+  contacts_n_6,
+  contacts_n_7,
+  new_type,
+  new_market
+FROM `your project.market_3`
+```
 
 ### My Query
 ```
