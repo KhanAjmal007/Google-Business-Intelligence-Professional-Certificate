@@ -14,7 +14,7 @@ You met with stakeholders to complete project planning documents and uploaded th
 ## Instructions
 
 <ol type="I">
-  <li> Access either [BigQuery](/https://console.cloud.google.com/bigquery?_ga=2.139941043.1230943722.1684190616-1879709139.1684190616&project=noted-processor-386822&ws=!1m0/) or [Dataflow](/https://console.cloud.google.com/dataflow/jobs?project=noted-processor-386822/), two google cloud platforms that can execute SQL code; however, both require you to have a Google Cloud account. </li>
+  <li> Access either [BigQuery](https://console.cloud.google.com/bigquery?_ga=2.139941043.1230943722.1684190616-1879709139.1684190616&project=noted-processor-386822&ws=!1m0/) or [Dataflow](/https://console.cloud.google.com/dataflow/jobs?project=noted-processor-386822/), two google cloud platforms that can execute SQL code; however, both require you to have a Google Cloud account. </li>
   <li> Query the data. For this step, consider all the key metrics the stakeholders have identified, address their business questions, and collect the data you'll need to develop the final dashboard. For the final dashboard, you will create two target tables: a table to capture the entire year and a table to focus on summer trends. </li>
 </ol>
 
