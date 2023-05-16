@@ -19,11 +19,14 @@ You met with stakeholders to complete project planning documents and uploaded th
 </ol>
 
 ## Resources
+### Datasets
  [NYC Citi Bike Trips, Census Bureau US Boundaries](https://console.cloud.google.com/marketplace/product/united-states-census-bureau/us-geographic-boundaries?project=noted-processor-386822)
  
  [GSOD from the National Oceanic and Atmospheric Administration](https://console.cloud.google.com/marketplace/details/noaa-public/gsod?project=noted-processor-386822)
  
  [Zipcode Spreadsheet](https://docs.google.com/spreadsheets/d/1IIbH-GM3tdmM5tl56PHhqI7xxCzqaBCU0ylItxk_sy0/template/preview#gid=806359255)
+ 
+ ### Tools
  
  [BigQuery](https://console.cloud.google.com/bigquery?_ga=2.139941043.1230943722.1684190616-1879709139.1684190616&project=noted-processor-386822&ws=!1m0/)
  
