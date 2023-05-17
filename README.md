@@ -1,4 +1,7 @@
-# Google Business Intelligence Professional Certificate
+<p align="center">
+<img src="https://github.com/CindCodes/Google-Business-Intelligence-Capstone/blob/main/Graphics/CourseBanner.png" alt="Banner" title="Course Banner">
+</p>
+
 This repository is dedicated to showcasing my skills acquired during the completion of the Google Business Intelligence Professional Certificate. This certificate builds upon my previous knowledge on Data Analytics learned when I completed the Google Data Analytics Professional Certificate. This course, although an extension, will also provide me with skills such as data modeling, data visualization, and dashboarding and reporting. 
 
 ## Skills
