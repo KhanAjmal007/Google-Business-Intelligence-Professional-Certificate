@@ -1,4 +1,4 @@
-# Cyclistic bike-share
+# Cyclistic Bike-Share
 
 ## Background: 
 In this fictitious workplace scenario, the imaginary company Cyclistic has partnered with the city of New York to provide shared bikes. Currently, there are bike stations located throughout Manhattan and neighboring boroughs. Customers are able to rent bikes for easy travel among stations at these locations. 
